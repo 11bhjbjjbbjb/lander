@@ -1,0 +1,23 @@
+offset:
+- 0
+- 0
+- 0
+pick_location_time:
+- 3.1
+pick_stop_pixel_coordinate:
+- 366
+- 336
+place_stop_pixel_coordinate:
+- 320
+- 388
+posture_align_tolerance_deg: 5.0
+ramp_align_offset_tolerance_px: 3.0
+ramp_up_pixel_coordinate:
+- 371
+- 204
+shape_dist: 230.0
+shape_flat:
+- 0.9662576657476759
+- 1.0227272694067298
+up_ramp_time:
+- 3.2
